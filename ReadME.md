@@ -1,5 +1,8 @@
 # React Native Uber Clone project
 
+This is a practice project to re-create the UI and UX of the Uber app.
+Only the functionality for uber ride is immplemented
+
 ## Toolkits for the project
 
 - Tailwind CSS for styling
